@@ -1,4 +1,4 @@
-# Colorizing_black_and_white_photo
+# Blending Technology and Art: Comparative Study of Image Colorization Models
 Create an interface that helps colorize black and white photos.
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the demo app at [follow this link](https://huggingface.co/spaces/ChiKyi/Colorization )
